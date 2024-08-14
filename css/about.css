@@ -1,0 +1,16 @@
+header{
+    background-color: brown;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1rem;
+}
+h2{
+    font-weight: 700;
+    line-height: 1;
+    font-family: Playfair Display, serif;
+    padding: 50px;
+}
+footer{
+    margin-top: 20%;
+  }
+ 
